@@ -1,0 +1,5 @@
+﻿  main.c
+  score.c
+c:\users\dell\source\repos\实验一\实验一\score.c(96): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  实验一.vcxproj -> C:\Users\DELL\source\repos\实验一\Debug\实验一.exe
